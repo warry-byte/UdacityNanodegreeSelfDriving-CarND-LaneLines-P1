@@ -3,6 +3,9 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+DISCLAIMER: this repo is a direct push of the initial Git repo put by Udacity at the disposal of students following the Nanodegree "Become a self-driving car engineer".
+The code present here has been minimally commented and is not reflective of the authors ability to maintain and comment code in any way. Sorry folks! (but you can find useful routines here). I marked my files with my family name as a suffix.
+
 Overview
 ---
 
