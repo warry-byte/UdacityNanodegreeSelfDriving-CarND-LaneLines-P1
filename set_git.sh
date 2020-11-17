@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Make sure you have the latest version of the repo
-echo
-git pull
-echo
+# echo
+# git pull
+# echo
 
 # Ask the user for login details
 read -p 'Git repository url: ' upstreamVar
